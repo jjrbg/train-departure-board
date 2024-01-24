@@ -1,0 +1,29 @@
+.container
+{
+	background: #041e42;
+	color: #c8c8c8;
+	font-family: Arial, cursive;
+	font-size: large;
+	max-width: none;
+}
+
+.TrainDestination
+{
+	color: #d90699;
+}
+
+.DelayedOrCancelled
+{
+	color: #d31248;
+}
+
+.footer,.header 
+{
+	background: #0047bb;
+}
+
+.trainFont 
+{
+	font-size: medium;
+	font-family: Arial;
+}
