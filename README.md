@@ -1,5 +1,7 @@
 Live Train Departure Board
 
+![Screenshot](screenshot.png "Screenshot")
+
 References
 
 https://roblsmith.co.uk/blog/2020/02/building-a-train-departure-board-using-the-openldbws/
